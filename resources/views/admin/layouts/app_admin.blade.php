@@ -34,12 +34,10 @@
                 <!-- Left Side Of Navbar -->
                 <ul class="navbar-nav mr-auto">
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle"
-                           data-toggle="dropdown" role="button"
-                           aria-expanded="false">Блог</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Блог</a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Категории</a></li>
-                            <li><a href="#">Материалы</a></li>
+                            <li><a href="#" class="dropdown-item">Категории</a></li>
+                            <li><a href="#" class="dropdown-item">Материалы</a></li>
                         </ul>
                     </li>
                 </ul>
